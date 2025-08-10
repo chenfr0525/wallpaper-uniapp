@@ -1,0 +1,32 @@
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.searchLayout.data-v-c10c040c {
+  padding: 20rpx 30rpx;
+}
+.searchLayout .record.data-v-c10c040c {
+  padding-top: 40rpx;
+}
+.searchLayout .classList .content.data-v-c10c040c {
+  display: grid;
+  padding: 0 15rpx;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15rpx;
+}
+.searchLayout .classList .content .item.data-v-c10c040c {
+  height: 400rpx;
+}
+.searchLayout .classList .content .item image.data-v-c10c040c {
+  height: 100%;
+  width: 100%;
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "明星主题",
+  "usingComponents": {
+    "load": "../../components/load/load"
+  }
+}

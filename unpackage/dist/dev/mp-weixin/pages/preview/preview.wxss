@@ -1,0 +1,174 @@
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.preview.data-v-2dad6c07 {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+.preview swiper.data-v-2dad6c07 {
+  height: 100%;
+  width: 100%;
+}
+.preview swiper image.data-v-2dad6c07 {
+  height: 100%;
+  width: 100%;
+}
+.preview .mask > view.data-v-2dad6c07 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  color: #FFF;
+}
+.preview .mask .goback.data-v-2dad6c07 {
+  margin-left: 30rpx;
+  padding: 20rpx;
+  width: 75rpx;
+  height: 75rpx;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.preview .mask .count.data-v-2dad6c07 {
+  top: 10vh;
+  width: -webkit-fit-content;
+  width: fit-content;
+  background-color: rgba(0, 0, 0, 0.2);
+  -webkit-backdrop-filter: blur(10rpx);
+          backdrop-filter: blur(10rpx);
+  border-radius: 30rpx;
+  padding: 8rpx 28rpx;
+}
+.preview .mask .time.data-v-2dad6c07 {
+  font-size: 140rpx;
+  top: calc(10vh + 80rpx);
+  width: -webkit-fit-content;
+  width: fit-content;
+  text-shadow: 0 4rpx rgba(0, 0, 0, 0.3);
+  font-weight: 300;
+}
+.preview .mask .date.data-v-2dad6c07 {
+  font-size: 36rpx;
+  top: calc(10vh + 250rpx);
+  width: -webkit-fit-content;
+  width: fit-content;
+  text-shadow: 0 2rpx rgba(0, 0, 0, 0.3);
+}
+.preview .mask .footer.data-v-2dad6c07 {
+  bottom: 10vh;
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 65vw;
+  height: 120rpx;
+  border-radius: 120rpx;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 0 2rpx 0 rgba(0, 0, 0, 0.2);
+  -webkit-backdrop-filter: blur(20rpx);
+          backdrop-filter: blur(20rpx);
+}
+.preview .mask .footer .box.data-v-2dad6c07 {
+  display: flex;
+  flex-direction: column;
+  color: #676767;
+  padding: 8rpx 20rpx;
+  font-size: 26rpx;
+}
+.preview .popheader.data-v-2dad6c07 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.preview .popheader text.data-v-2dad6c07 {
+  color: #aaa;
+  padding-left: 60rpx;
+}
+.preview .popheader .close.data-v-2dad6c07 {
+  padding: 30rpx 30rpx;
+}
+.preview .infopop .content.data-v-2dad6c07 {
+  max-height: 60vh;
+  width: calc(100vw - 30rpx - 30rpx);
+  padding: 0 30rpx 30rpx 30rpx;
+}
+.preview .infopop .content .row.data-v-2dad6c07 {
+  display: flex;
+  font-size: 32rpx;
+  line-height: 1.7em;
+  padding: 8rpx 0;
+}
+.preview .infopop .content .row .label.data-v-2dad6c07 {
+  color: #676767;
+  width: 140rpx;
+  font-size: 30rpx;
+  text-align: right;
+}
+.preview .infopop .content .row .value.data-v-2dad6c07 {
+  flex: 1;
+}
+.preview .infopop .content .row .class.data-v-2dad6c07 {
+  color: #28B389;
+}
+.preview .infopop .content .row .rate.data-v-2dad6c07 {
+  display: flex;
+  align-items: center;
+}
+.preview .infopop .content .row .rate text.data-v-2dad6c07 {
+  padding-left: 10rpx;
+}
+.preview .infopop .content .row .tabs.data-v-2dad6c07 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10rpx;
+}
+.preview .infopop .content .row .tabs .tab.data-v-2dad6c07 {
+  border: 1px solid #28B389;
+  color: #28B389;
+  border-radius: 30rpx;
+  padding: 3rpx 15rpx;
+}
+.preview .infopop .content .copyright.data-v-2dad6c07 {
+  margin-top: 10rpx;
+  font-size: 26rpx;
+  line-height: 1.6em;
+  background-color: #f6f6f6;
+  color: #666;
+  padding: 10rpx 20rpx;
+  border-radius: 20rpx;
+}
+.preview .infopop .content .safe-area-inset-bottom.data-v-2dad6c07 {
+  height: env(safe-area-inset-bottom);
+}
+.preview .scorepop.data-v-2dad6c07 {
+  width: 60vw;
+}
+.preview .scorepop .score.data-v-2dad6c07 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.preview .scorepop .score .text.data-v-2dad6c07 {
+  width: 80rpx;
+  line-height: 1em;
+  text-align: right;
+  color: #FFCA3E;
+}
+.preview .scorepop .footer.data-v-2dad6c07 {
+  padding: 20rpx 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

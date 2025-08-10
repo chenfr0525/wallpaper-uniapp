@@ -1,0 +1,116 @@
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.homeLayout .banner.data-v-1cf27b2a {
+  width: 750rpx;
+  padding: 30rpx 0;
+}
+.homeLayout .banner swiper.data-v-1cf27b2a {
+  width: 100%;
+  height: 340rpx;
+}
+.homeLayout .banner swiper-item.data-v-1cf27b2a {
+  height: 100%;
+  width: 100%;
+  padding: 0 30rpx;
+}
+.homeLayout .banner swiper-item .nav.data-v-1cf27b2a {
+  height: 100%;
+  width: 100%;
+}
+.homeLayout .banner swiper-item .nav image.data-v-1cf27b2a {
+  height: 100%;
+  width: 100%;
+  border-radius: 10rpx;
+}
+.homeLayout .notify.data-v-1cf27b2a {
+  height: 80rpx;
+  width: 700rpx;
+  background-color: #f9f9f9;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  line-height: 80rpx;
+  border-radius: 80rpx;
+  padding: 0 15rpx;
+}
+.homeLayout .notify .left.data-v-1cf27b2a {
+  width: 140rpx;
+  display: flex;
+  align-items: center;
+}
+.homeLayout .notify .left text.data-v-1cf27b2a {
+  color: #28B389;
+  font-weight: 600;
+  font-size: 26rpx;
+}
+.homeLayout .notify .content.data-v-1cf27b2a {
+  flex: 1;
+  height: 100%;
+}
+.homeLayout .notify .content swiper.data-v-1cf27b2a {
+  height: 100%;
+}
+.homeLayout .notify .content swiper swiper-item.data-v-1cf27b2a {
+  font-size: 28rpx;
+  color: #666;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.homeLayout .notify .right.data-v-1cf27b2a {
+  width: 70rpx;
+}
+.homeLayout .select.data-v-1cf27b2a {
+  padding-top: 50rpx;
+}
+.homeLayout .select .date.data-v-1cf27b2a {
+  color: #28B389;
+}
+.homeLayout .select .content.data-v-1cf27b2a {
+  width: 720rpx;
+  margin-left: 30rpx;
+  margin-top: 30rpx;
+}
+.homeLayout .select .content scroll-view.data-v-1cf27b2a {
+  white-space: nowrap;
+}
+.homeLayout .select .content scroll-view .box.data-v-1cf27b2a {
+  width: 200rpx;
+  height: 430rpx;
+  display: inline-block;
+  margin-right: 15rpx;
+  overflow: hidden;
+  border-radius: 8rpx;
+}
+.homeLayout .select .content scroll-view .box image.data-v-1cf27b2a {
+  width: 100%;
+  height: 100%;
+}
+.homeLayout .select .content scroll-view .box.data-v-1cf27b2a:last-child {
+  margin-right: 30rpx;
+}
+.theme.data-v-1cf27b2a {
+  padding-top: 50rpx;
+}
+.theme .more.data-v-1cf27b2a {
+  color: #28B389;
+}
+.theme .content.data-v-1cf27b2a {
+  margin-top: 30rpx;
+  width: 100%;
+  padding: 0 30rpx;
+  display: grid;
+  gap: 15rpx;
+  grid-template-columns: repeat(3, 1fr);
+}

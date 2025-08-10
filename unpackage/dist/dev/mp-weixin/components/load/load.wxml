@@ -1,0 +1,1 @@
+<view class="layout data-v-94ec6496"><uni-load-more wx:if="{{a}}" class="data-v-94ec6496" u-i="94ec6496-0" bind:__l="__l" u-p="{{a}}"></uni-load-more></view>
